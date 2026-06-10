@@ -69,7 +69,7 @@ var НАСТРОЙКИ = {
 
 ## 📁 Шаблон таблицы
 
-[Открыть шаблон Google Sheets](https://docs.google.com/spreadsheets/d/1dtE5KmxyeeGnLY9L_R0gDnnBj0F9FTzWaj91n725Q9E/edit?usp=sharing) ← скопируй себе через Файл → Создать копию
+[Открыть шаблон Google Sheets](https://docs.google.com/spreadsheets/d/1ULLztRiaTBzjjlQ2ipAMNDHKYe6eLE-HkTzRtNoZVJg/edit?usp=sharing) ← скопируй себе через Файл → Создать копию
 
 ## 💡 Нюансы
 
